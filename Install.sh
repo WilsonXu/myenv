@@ -1,1 +1,1 @@
-cat .bash_profile >> ~/.bash_profile
+echo '. ~/.myenv/.bash_profile' >> ~/.bash_profile
